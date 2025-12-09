@@ -1,6 +1,5 @@
 <h1>5の1新聞</h1>
 <h3>ホームページ</h3>
-<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
